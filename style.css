@@ -1,10 +1,10 @@
 @font-face {
     font-family: "Digital7";
-    src: url("Digital7.ttf");
+    src: url("resources/Digital7.ttf");
 }
 @font-face {
     font-family: "eurostile_extended_black";
-    src: url("eurostile_extended_black.ttf");
+    src: url("resources/eurostile_extended_black.ttf");
 }
 
 
